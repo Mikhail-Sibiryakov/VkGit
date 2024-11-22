@@ -1,7 +1,7 @@
 #!/bin/python3
 
 print("Old Hello world!")
-print("Hello VK!")
+print("Old old xa xa Hello VK!")
 print("text")
 print("text 2")
 print("yet another text")
