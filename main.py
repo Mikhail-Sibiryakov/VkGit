@@ -1,7 +1,7 @@
 #!/bin/python3
 
 print("Confl Hello world!")
-print("Hello VK!")
+print("Conflict Hello VK!")
 print("text")
 print("text 2")
 print("yet another text")
