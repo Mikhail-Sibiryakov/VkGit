@@ -3,3 +3,4 @@
 print("Hello world!")
 print("Hello VK!")
 print("text")
+print("text 2")
